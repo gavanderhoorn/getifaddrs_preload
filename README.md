@@ -1,7 +1,7 @@
 
 ## Deprecated
 
-Note: as of Win10 build 14965, the prelod trick is NOT necessary anymore.
+Note: as of Win10 build 14965, the preload trick is NOT necessary anymore.
 
 See also [issue468][] on the BashOnWindows issue tracker.
 
